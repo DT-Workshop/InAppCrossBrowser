@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "name": "com.dt-workshop.InAppBrowser",
-  "cordova_name": "InAppBrowser",
+  "version": "0.1.2",
+  "name": "com.dt-workshop.inappcrossbrowser",
+  "cordova_name": "InAppCrossBrowser",
   "description": "Cordova android webView and Crosswalk combination",
   "license": "Apache 2.0",
   "repo": "https://github.com/DT-Workshop/InAppCrossBrowser.git",
