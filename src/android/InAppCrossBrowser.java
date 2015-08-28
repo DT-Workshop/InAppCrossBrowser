@@ -1,4 +1,4 @@
-package com.dt_workshop.InAppCrossBrowser;
+package com.dtworkshop.inappcrossbrowser;
 
 import android.content.Context;
 import android.content.res.Resources;

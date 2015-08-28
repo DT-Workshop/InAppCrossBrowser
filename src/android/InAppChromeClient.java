@@ -16,7 +16,7 @@
        specific language governing permissions and limitations
        under the License.
 */
-package com.dt_workshop.InAppCrossBrowser;
+package com.dtworkshop.inappcrossbrowser;
 
 import android.webkit.GeolocationPermissions.Callback;
 import android.webkit.JsPromptResult;

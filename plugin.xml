@@ -18,7 +18,7 @@
   under the License.
 -->
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.dt-workshop.InAppCrossBrowser" version="0.1.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.dtworkshop.inappcrossbrowser" version="0.1.3">
 
     <name>InAppCrossBrowser</name>
     <description>Cordova android webView and Crosswalk combination</description>
@@ -43,14 +43,14 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="InAppCrossBrowser">
-                <param name="android-package" value="com.dt_workshop.InAppCrossBrowser.InAppCrossBrowser"/>
+                <param name="android-package" value="com.dtworkshop.inappcrossbrowser.InAppCrossBrowser"/>
             </feature>
         </config-file>
 
-        <source-file src="src/android/InAppCrossBrowser.java" target-dir="src/com/dt_workshop/InAppCrossBrowser/"/>
-        <source-file src="src/android/InAppChromeClient.java" target-dir="src/com/dt_workshop/InAppCrossBrowser/"/>
-        <source-file src="src/android/InAppBrowserDialog.java" target-dir="src/com/dt_workshop/InAppCrossBrowser/"/>
-        <source-file src="src/android/WebViewBrowser.java" target-dir="src/com/dt_workshop/InAppCrossBrowser/"/>
+        <source-file src="src/android/InAppCrossBrowser.java" target-dir="src/com/dtworkshop/inappcrossbrowser"/>
+        <source-file src="src/android/InAppChromeClient.java" target-dir="src/com/dtworkshop/inappcrossbrowser"/>
+        <source-file src="src/android/InAppBrowserDialog.java" target-dir="src/com/dtworkshop/inappcrossbrowser"/>
+        <source-file src="src/android/WebViewBrowser.java" target-dir="src/com/dtworkshop/inappcrossbrowser"/>
 
         <!--  drawable src/android/resources -->
         <resource-file src="src/android/res/drawable-hdpi/ic_action_next_item.png"

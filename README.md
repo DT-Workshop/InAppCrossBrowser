@@ -12,4 +12,4 @@ Same as org.apache.cordova.inappbrowser. Just call the window.open like this
 
      window.open("www.google.com",
            '_blank',
-           'hidden=yes,location=no,transitionstyle=fliphorizontal,presentationstyle=pagesheet');
+           'hidden=no,location=no,transitionstyle=fliphorizontal,presentationstyle=pagesheet');
