@@ -10,6 +10,6 @@ This is to enhance the cordova inAppBrowser plugin to support the crosswalk brow
 # How to use it 
 Same as org.apache.cordova.inappbrowser. Just call the window.open like this
 
-  window.open("www.google.com",
+     window.open("www.google.com",
               '_blank',
               'hidden=yes,location=no,transitionstyle=fliphorizontal,presentationstyle=pagesheet');
