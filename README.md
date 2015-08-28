@@ -5,7 +5,7 @@ This is to enhance the cordova inAppBrowser plugin to support the crosswalk brow
 2. remove the url input box (noramlly on one what to have the url input box for the in app browser)
 
 # How to install
- cordova plugin add com.DT-Workshop.InAppBrowser
+     cordova plugin add com.DT-Workshop.InAppBrowser
 
 # How to use it 
 Same as org.apache.cordova.inappbrowser. Just call the window.open like this
