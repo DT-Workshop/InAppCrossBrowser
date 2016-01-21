@@ -18,7 +18,7 @@
   under the License.
 -->
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.dtworkshop.inappcrossbrowser" version="0.1.3">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.dtworkshop.inappcrossbrowser" version="0.1.4">
 
     <name>InAppCrossBrowser</name>
     <description>Cordova android webView and Crosswalk combination</description>
@@ -31,9 +31,6 @@
         <engine name="cordova" version=">=3.1.0"/>
         <!-- Needs cordova/urlutil -->
     </engines>
-
-    <dependency id="org.apache.cordova.inappbrowser"
-                url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git"/>
 
     <!-- android -->
     <platform name="android">

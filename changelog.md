@@ -1,0 +1,7 @@
+# Change Log
+
+# 0.1.4 (2016-01-21)
+- remove the dependency (cordova-plugin-inappbrowser) in the plugin configuration file
+- correct the typo in the readme.md
+- use the new plugin name dtworkshop-inappcrossbrowser 
+
