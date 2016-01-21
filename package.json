@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "name": "dtworkshop-inappcrossbrowser",
   "cordova_name": "InAppCrossBrowser",
   "description": "Cordova android webView and Crosswalk combination",
