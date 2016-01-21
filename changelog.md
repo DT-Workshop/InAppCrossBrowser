@@ -1,5 +1,8 @@
 # Change Log
 
+# 0.1.6 (2016-01-21)
+- remove the outdated error code
+
 # 0.1.5 (2016-01-21)
 - use the same NPM name in the plugin.xml
 - support the latest crosswalk v16 
