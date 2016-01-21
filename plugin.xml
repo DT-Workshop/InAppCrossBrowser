@@ -18,7 +18,7 @@
   under the License.
 -->
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.dtworkshop.inappcrossbrowser" version="0.1.4">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="dtworkshop-inappcrossbrowser" version="0.1.5">
 
     <name>InAppCrossBrowser</name>
     <description>Cordova android webView and Crosswalk combination</description>
